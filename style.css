@@ -1,0 +1,50 @@
+td{
+    border: 5px solid black;
+    background-color:crimson;
+    width: 100px;
+    height: auto;
+}
+th{
+    width: 100px;
+    height: auto;
+}
+table{
+    width: 300px;
+    height: 300px;
+    border: 9px solid black;
+    background-color: white;
+}
+#dado{
+    display: grid;
+    place-items: center;
+}
+#sorteio{
+    text-align: center;
+    align-items: center;
+}
+input{
+    border-radius: 3px;
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    font-family: monospace;
+    background-color: white;
+}
+h1{
+    color: white;
+    font-family: monospace;
+    font-size: 70px;
+}
+h3{
+    color: white;
+    font-family: monospace;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(20, 107, 220);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
