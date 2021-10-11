@@ -30,6 +30,10 @@ input{
     font-family: monospace;
     background-color: white;
 }
+input:hover{
+    cursor: pointer;
+    padding: 12px;
+}
 h1{
     color: white;
     font-family: monospace;
